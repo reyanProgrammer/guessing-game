@@ -1,4 +1,4 @@
-import main.guess;
+import guess;
 public class run {
     public static void main(String[] args){
         guess g = new guess();
